@@ -26,8 +26,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+```
  ## Restaurant.html
-  ```
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,8 +110,9 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-## Menu.html
 ```
+## Menu.html
+
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -261,8 +263,9 @@ Publish the website in the given URL.
     </footer>
 </body>
 ```
-## About.html
 ```
+## About.html
+
 <style>
   body {
       font-family: Arial, sans-serif;
@@ -382,8 +385,9 @@ Publish the website in the given URL.
   </footer>
 </body>
 ```
-## Contact us.html
 ```
+## Contact us.html
+
 <style>
   body {
       font-family: Arial, sans-serif;
